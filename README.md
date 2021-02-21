@@ -1,3 +1,3 @@
 # Hello-world
 Hi everybody
-i start to learn python
+i start in python
